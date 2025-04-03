@@ -26,4 +26,6 @@ public class Recensement {
 	public void setVilles(List<Ville> villes) {
 		this.villes = villes;
 	}
+
+
 }
